@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "1070507782511",
+    "firebase_url": "https://elonchat.firebaseio.com",
+    "project_id": "elonchat",
+    "storage_bucket": "elonchat.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1070507782511:android:b6ebc1c02c42d60fe6b89a",
+        "android_client_info": {
+          "package_name": "com.example.elonchat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1070507782511-32ia8lfta2eu2fekhcanvemtcgjmf87k.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.elonchat",
+            "certificate_hash": "3a1024bf4f2b7fd238095201f374aad52acbe76c"
+          }
+        },
+        {
+          "client_id": "1070507782511-h10ij59jf8ht118uf5foa7pp7v2mcu9g.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDifID23CuSI-FlIJJf83BTONhtjw7xAes"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1070507782511-h10ij59jf8ht118uf5foa7pp7v2mcu9g.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
